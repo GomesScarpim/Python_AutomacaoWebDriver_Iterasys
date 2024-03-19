@@ -1,4 +1,4 @@
-# 1 - Bibliotecas
+py# 1 - Bibliotecas
 import selenium
 from selenium import webdriver
 from selenium.webdriver.common.by import By
